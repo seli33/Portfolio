@@ -209,7 +209,7 @@ section {
   position: sticky;
   top: 0;
   z-index: 100;
-  background: rgba(247, 243, 234, 0.9);
+  background: #f8f5ef;
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
 }
